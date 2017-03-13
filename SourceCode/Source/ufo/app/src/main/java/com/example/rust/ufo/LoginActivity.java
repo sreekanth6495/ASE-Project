@@ -25,9 +25,11 @@ import static com.example.rust.ufo.R.id.tvSignup;
 import static com.example.rust.ufo.R.id.tvforgotpassword;
 
 
+
 public class LoginActivity extends AppCompatActivity {
     private static EditText Email;
     private static EditText Password;
+    private static CheckBox rememberme;
     private static Button login;
     private static TextView forgotpassword;
     private static TextView signup;
@@ -38,18 +40,20 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+       /* LoginButton();*/
         auth = FirebaseAuth.getInstance();
-        if (auth.getCurrentUser() == null) {
+        if (auth.getCurrentUser() != null) {
             startActivity(new Intent(LoginActivity.this, HomepageActivity.class));
             finish();
         }
 
         Email = (EditText) findViewById(R.id.etEmailId);
         Password = (EditText) findViewById(R.id.etPassword);
+        rememberme = (CheckBox) findViewById(R.id.cbrememberme);
         login = (Button) findViewById(R.id.button_login);
-        forgotpassword = (TextView) findViewById(R.id.tvforgotpassword);
+        forgotpassword = (TextView) findViewById(tvforgotpassword);
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
-        signup = (TextView) findViewById(R.id.tvSignup);
+        signup = (TextView) findViewById(tvSignup);
         auth = FirebaseAuth.getInstance();
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -70,7 +74,7 @@ public class LoginActivity extends AppCompatActivity {
             public void onClick(View v) {
                 String email = Email.getText().toString();
                 final String password = Password.getText().toString();
-                Log.d("email=",email);
+
                 if (TextUtils.isEmpty(email)) {
                     Toast.makeText(getApplicationContext(), "Enter email address!", Toast.LENGTH_SHORT).show();
                     return;
@@ -81,7 +85,7 @@ public class LoginActivity extends AppCompatActivity {
                     return;
                 }
 
-             ///   progressBar.setVisibility(View.VISIBLE);
+                progressBar.setVisibility(View.VISIBLE);
 
                 //authenticate user
                 auth.signInWithEmailAndPassword(email, password)
@@ -91,14 +95,12 @@ public class LoginActivity extends AppCompatActivity {
                                 // If sign in fails, display a message to the user. If sign in succeeds
                                 // the auth state listener will be notified and logic to handle the
                                 // signed in user can be handled in the listener.
-                            //    progressBar.setVisibility(View.GONE);
+                                progressBar.setVisibility(View.GONE);
                                 if (!task.isSuccessful()) {
                                     // there was an error
-
                                     if (password.length() < 6) {
                                         Password.setError(getString(R.string.minimum_password));
                                     } else {
-                                       // Log.w(TAG, "signInWithEmailAndPassword", task.getException());
                                         Toast.makeText(LoginActivity.this, getString(R.string.auth_failed), Toast.LENGTH_LONG).show();
                                     }
                                 } else {
@@ -112,5 +114,4 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
 }
-
 

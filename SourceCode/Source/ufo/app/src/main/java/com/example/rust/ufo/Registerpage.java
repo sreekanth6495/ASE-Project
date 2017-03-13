@@ -67,7 +67,7 @@ public class Registerpage extends AppCompatActivity {
 
               */
 
-            // Log.d("firstname=",firstname);
+             Log.d("firstname=",firstname);
             if (TextUtils.isEmpty(firstname)) {
                     Toast.makeText(getApplicationContext(), "Enter Your First Name!", Toast.LENGTH_SHORT).show();
                     return;
