@@ -62,17 +62,6 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/checkboxholder">
 
-                <CheckBox
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/cbrememberme"
-                    android:hint="Remember Me"
-                    android:text="Remember Me"
-                    android:textColor="@android:color/background_dark"
-                    android:textColorHighlight="@android:color/background_dark"
-                    android:textColorHint="@android:color/black"
-                     />
-
             </LinearLayout>
 
             <LinearLayout
@@ -82,11 +71,12 @@
                 android:id="@+id/Loginbuttonfolder">
 
                 <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="64dp"
                     android:id="@+id/button_login"
-                    android:hint="LogIn"
-                    android:elevation="0dp" />
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@android:drawable/screen_background_light_transparent"
+                    android:elevation="0dp"
+                    android:hint="LogIn" />
 
             </LinearLayout>
 
