@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "315996393144",
+    "firebase_url": "https://ufoapp-16e02.firebaseio.com",
+    "project_id": "ufoapp-16e02",
+    "storage_bucket": "ufoapp-16e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315996393144:android:50c0cb448305f869",
+        "android_client_info": {
+          "package_name": "com.example.rust.ufo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315996393144-4ckm41nqa011u8e4di0fnl0p3vito95k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rust.ufo",
+            "certificate_hash": "37527f1310b8ffa488ba7284e6a2980bb70d749d"
+          }
+        },
+        {
+          "client_id": "315996393144-n5liflbg1c9g1c5809grcnod4k9facm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhjb8ZA78E10Oe1oyCzUA_duKJDJh7FnU"
+        },
+        {
+          "current_key": "AIzaSyBDqzTTD3as3VFJPomZDOonIuJM9lVgh5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315996393144-n5liflbg1c9g1c5809grcnod4k9facm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
