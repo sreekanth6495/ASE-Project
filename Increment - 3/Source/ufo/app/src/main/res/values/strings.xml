@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">ufo</string>
-    <string name="minimum_password">6</string>
-    <string name="auth_failed" />
-</resources>
