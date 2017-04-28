@@ -80,7 +80,12 @@ public class LoginActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Enter password!", Toast.LENGTH_SHORT).show();
                     return;
                 }
+<<<<<<< HEAD:Increment-3/Source/ufo/app/src/main/java/com/example/rust/ufo/LoginActivity.java
                 progressBar.setVisibility(View.VISIBLE);
+=======
+
+             ///   progressBar.setVisibility(View.VISIBLE);
+>>>>>>> 5d99259722ed85eb1569d51feee4d1cb7fa6cf5b:Increment - 2/Source/ufo/app/src/main/java/com/example/rust/ufo/LoginActivity.java
 
                 //authenticate user
                 auth.signInWithEmailAndPassword(email, password)
@@ -90,14 +95,22 @@ public class LoginActivity extends AppCompatActivity {
                                 // If sign in fails, display a message to the user. If sign in succeeds
                                 // the auth state listener will be notified and logic to handle the
                                 // signed in user can be handled in the listener.
+<<<<<<< HEAD:Increment-3/Source/ufo/app/src/main/java/com/example/rust/ufo/LoginActivity.java
                                progressBar.setVisibility(View.GONE);
+=======
+                            //    progressBar.setVisibility(View.GONE);
+>>>>>>> 5d99259722ed85eb1569d51feee4d1cb7fa6cf5b:Increment - 2/Source/ufo/app/src/main/java/com/example/rust/ufo/LoginActivity.java
                                 if (!task.isSuccessful()) {
                                     // there was an error
 
                                     if (password.length() < 6) {
                                         Password.setError(getString(R.string.minimum_password));
                                     } else {
+<<<<<<< HEAD:Increment-3/Source/ufo/app/src/main/java/com/example/rust/ufo/LoginActivity.java
                                     //Log.w(TAG, "signInWithEmailAndPassword", task.getException());
+=======
+                                       // Log.w(TAG, "signInWithEmailAndPassword", task.getException());
+>>>>>>> 5d99259722ed85eb1569d51feee4d1cb7fa6cf5b:Increment - 2/Source/ufo/app/src/main/java/com/example/rust/ufo/LoginActivity.java
                                         Toast.makeText(LoginActivity.this, getString(R.string.auth_failed), Toast.LENGTH_LONG).show();
                                     }
                                 } else {

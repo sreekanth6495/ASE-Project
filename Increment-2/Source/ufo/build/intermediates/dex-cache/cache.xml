@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/c22cc912daee19a3c84518bc0f71fd7884103f90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad6099ec3287589382d3281820566e345a45997d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/43be7b1761979dedee3ce80c93deb4f5330f3b76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dea94c9eb7d836ca42d647bfd8e392d4daa38ad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/467f92298e44a9f8ac47c28f5dcd0e15b917820d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1530d9da43437517404611633e9cbf63211ddacd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/4fcf53fec7dcce514be4c40afd68041950c4e5d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffa6c34644464a2b92f5ab2a061221472a55a22b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/9f520ceb377c40447f01f81ec852e39041bf9015/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d5d68d9b6975e7de112dd1a6ca5c3f9e837d95c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/dfff55f6551c8c986b343fd2e6d830232e77d2d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58170d0f26ad21c452e3d08b75538fdf17d912fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_01a589baa121167e81a7e5f918daac07bd019370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/96636c49860fcc6f24488db02f5abd8494abcbf5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d4911cb58c51385982c1d71d930c9cb00fac8f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536cf2df760f007f2895cf2a932e6111a2327b67">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d506fbbe8b1a55d9241e6d63ba6622c83b873844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/063d15d638f7b7848541644e46151ffc32be8853/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7748f12f63bca13e718eea5331b693a74f6d0b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c149b33b14ad1702b426e1aa79d5d2d022c2f875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/7310e383c9a50cc56270605f2b73b407a8a57336/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d6e1385854d495f85b7ef31a07289d36e435ec5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/9e8a2eab9858d7fb039f27c98a425be001c6fea5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a75f2b99f0a4b02a27422d0b4355eef9e4f5eb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/b67a312cca1af273c1cf729c47fee1237c23babc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f5917e3baf2415bbbec554ab056fe77435a227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/591bb71e8eaae307265b217d1c3ee3479dc68ff2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19af6c9fba80acf75a0371750ce360f7f76cb1aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/e51e47c1fa420800ca848d1b7b9a3014af91ca51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fa16e630d1af22e84f2be21f5e18863ce7f03c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_893028aceecce4453f45cc3be64ac41722d59968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/ef242f377794c94815a5427e1b1c8b8c0723ef22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfdd78fd8f1249a92945115acb649a0f83810f44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/ef1b61a08dbe4ea74151abda473058b9b1b75cae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22e4e144c51bca1680d99525641dc09b8a9c1fbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/.android/build-cache/4bbd65eacbf74edac618601ad6888a8b3a270f5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9829b252f4690026176c1990098156ac63997dd/classes.dex" />
+    </item>
+
+</items>

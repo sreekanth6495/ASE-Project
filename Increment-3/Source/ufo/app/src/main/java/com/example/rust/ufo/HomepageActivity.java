@@ -1,5 +1,6 @@
 package com.example.rust.ufo;
 
+<<<<<<< HEAD
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,10 +9,18 @@ import android.widget.Button;
 public class HomepageActivity extends AppCompatActivity {
    // private FirebaseAuth auth;
     private static Button LogOut;
+=======
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class HomepageActivity extends AppCompatActivity {
+
+>>>>>>> 5d99259722ed85eb1569d51feee4d1cb7fa6cf5b
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_homepage);
+<<<<<<< HEAD
 
         LogOut = (Button) findViewById(R.id.idlogout);
         LogOut.setOnClickListener(new View.OnClickListener() {
@@ -47,4 +56,7 @@ public class HomepageActivity extends AppCompatActivity {
             }
         });
     }*/}
+=======
+    }
+>>>>>>> 5d99259722ed85eb1569d51feee4d1cb7fa6cf5b
 }

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/ash/.android/build-cache/4fcf53fec7dcce514be4c40afd68041950c4e5d0/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/ash/.android/build-cache/4fcf53fec7dcce514be4c40afd68041950c4e5d0/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ash/.android/build-cache/ddd1907d57d6faf4acfa636943a59b936dcddf50/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ash/.android/build-cache/4fcf53fec7dcce514be4c40afd68041950c4e5d0/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

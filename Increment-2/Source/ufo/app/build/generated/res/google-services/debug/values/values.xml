@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">315996393144-n5liflbg1c9g1c5809grcnod4k9facm0.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ufoapp-16e02.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">315996393144</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhjb8ZA78E10Oe1oyCzUA_duKJDJh7FnU</string>
+    <string name="google_app_id" translatable="false">1:315996393144:android:50c0cb448305f869</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhjb8ZA78E10Oe1oyCzUA_duKJDJh7FnU</string>
+    <string name="google_storage_bucket" translatable="false">ufoapp-16e02.appspot.com</string>
+</resources>
