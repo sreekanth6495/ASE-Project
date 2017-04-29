@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\akhil\\Documents\\GitHub\\ASE-Project\\Increment - 2\\Source\\ufo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\akhil\\.android\\build-cache\\699582ab1db4388a2114e361d549e083a7d1d6dc\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
