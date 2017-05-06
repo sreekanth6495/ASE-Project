@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    build-mode="FULL"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.0"
+    timestamp="1492395381503"
+    token="-3038084919077568870"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4794" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1939" />
+    <task
+        name="verifier"
+        duration="1623" />
+
+    <artifact
+        location="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1492395381503"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

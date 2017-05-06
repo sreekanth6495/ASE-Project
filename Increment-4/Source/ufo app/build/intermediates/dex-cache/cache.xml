@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d59527f4afb10e815dd5c77043f55c84c1825ad">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d82a938ad8926b02eac0f90157b9134572418e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/07bdd9d90447ca9ee5225050edf4941542828e1f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c2b33b3c36e290ae3763de001becab4ac6772553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/b587a2102cb8e9e9738b5bee5989a8cca2e550fa/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_22b9901d55c0a0decbff18c098983fdf58efc0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/b587a2102cb8e9e9738b5bee5989a8cca2e550fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_c0ebe9049737d7e3e2b157781d66f8f325779e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/a2b13bc66f6b27ed61ecb223bfadfcbc38f3ec14/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_9c92db36af8c2394c181d2474a9bb35137a3ee1e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22cde21b07698695a14180ccab674155df5c069e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/5afba8d876919475360939a365af9dc546dfbbcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_dff1d1601430ff0b371248885917491769a14064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/f281bb79571b9998e82cf579a9d3c1bdab0ac00c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_c37cb945b39489e58232b64ae4812ec7805d869f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/503a194305873a549bf9419769fed507bd85de79/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_2b6f7ca6c51ea536b3d2da11fc7f196412b387c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/84f4cb0ea4bc75f8d66c4fbf2e02c74bb3bfd190/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_0c1a47b46ef3383051aff32965f4bdcd3d469f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/f281bb79571b9998e82cf579a9d3c1bdab0ac00c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d71c091dd39af7c71ec7e040742b73dd54d1084a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/a2b13bc66f6b27ed61ecb223bfadfcbc38f3ec14/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dd0a06ae936ffe19352c977b14f5b6fa63172a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/38e5170f5c3f02c0297607612df35a216d2d1de5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_a0091d153f303898fb1a8ccf7625f66645e9f08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_4d5fa1d60148ca7471ff46609aed68f951a9dc9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/2c52e806668238bf77c3544d76c8e054fa252b92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_c54f8274ee4a0e2fe6821e2dab74d5d9a614e51d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/07bdd9d90447ca9ee5225050edf4941542828e1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_185d80352573d47acdac8158e9f9b3cb4c483f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ash/.android/build-cache/503a194305873a549bf9419769fed507bd85de79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/ash/Downloads/food-sqlite-demo-master/app/build/intermediates/pre-dexed/debug/classes_0934b61f1b2010a9aa3a6554d0c85060ec479290.jar" />
+    </item>
+
+</items>

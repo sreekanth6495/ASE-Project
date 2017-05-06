@@ -1,0 +1,7 @@
+#Mon Apr 10 19:01:44 CDT 2017
+base.0=/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d506fbbe8b1a55d9241e6d63ba6622c83b873844
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c149b33b14ad1702b426e1aa79d5d2d022c2f875/classes.dex
+base.1=/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c149b33b14ad1702b426e1aa79d5d2d022c2f875
+file.0=/home/ash/ASE-Project/Increment-2/Source/ufo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d506fbbe8b1a55d9241e6d63ba6622c83b873844/classes.dex

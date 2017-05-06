@@ -1,0 +1,7 @@
+#Sun Apr 16 21:16:56 CDT 2017
+base.0=C\:\\Users\\akhil\\Documents\\GitHub\\ASE-Project\\Increment - 2\\Source\\ufo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_74c1c1ed3fd979c4faa7a32665028fe7ae2b7e41
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\akhil\\Documents\\GitHub\\ASE-Project\\Increment - 2\\Source\\ufo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e13e33fe486e3c7e195bb046b103f9c5052fafc7\\classes.dex
+base.1=C\:\\Users\\akhil\\Documents\\GitHub\\ASE-Project\\Increment - 2\\Source\\ufo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e13e33fe486e3c7e195bb046b103f9c5052fafc7
+file.0=C\:\\Users\\akhil\\Documents\\GitHub\\ASE-Project\\Increment - 2\\Source\\ufo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_74c1c1ed3fd979c4faa7a32665028fe7ae2b7e41\\classes.dex

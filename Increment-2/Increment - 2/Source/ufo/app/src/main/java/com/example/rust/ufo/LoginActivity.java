@@ -95,12 +95,17 @@ public class LoginActivity extends AppCompatActivity {
                                 // If sign in fails, display a message to the user. If sign in succeeds
                                 // the auth state listener will be notified and logic to handle the
                                 // signed in user can be handled in the listener.
+                               progressBar.setVisibility(View.GONE);
+
                                 progressBar.setVisibility(View.GONE);
+
                                 if (!task.isSuccessful()) {
                                     // there was an error
                                     if (password.length() < 6) {
                                         Password.setError(getString(R.string.minimum_password));
                                     } else {
+                                    //Log.w(TAG, "signInWithEmailAndPassword", task.getException());
+
                                         Toast.makeText(LoginActivity.this, getString(R.string.auth_failed), Toast.LENGTH_LONG).show();
                                     }
                                 } else {

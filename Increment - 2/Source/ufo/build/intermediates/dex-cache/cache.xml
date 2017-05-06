@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\4409acc9a09b8af58159f8d043a7bec26af84cb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d50b96fa1cfe5e4b7ae6ae67adbeba66efc5b205\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\cd731cec3bdbc1f1625fed0c39e90689bbd15979\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68b6c9f87a5e0c068bf003a0b22103b7ab0b3072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\dc99812fef9baffc6184c08af1b9c7ad091a7dc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4522ab529b1004311804dcddc88f270e880179d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\99731788ac133ceeb4a3af466b800377987ac966\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d74e6e856f4bd3ba9f470e9a913700127b4716b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\b9934ebaa3ae192f1941465e53f4ad7d9837f1f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0772242d9a9469e0cc349f55ab53fbf4f3b7f625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\1d42c024dc33d8e6e38c419cd399783a4323709f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a11fa6e7cf20e525e773131c89c83b94a9765a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\ba7bc3d99740d0a18c0c8c5b71fa7b70c1d96ba2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a929876a40863990daef0a8a3fdcc24832928d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\180e2fb39434e2988d8b5c7ebb2318d2502e00d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_766ea73fa4f63eb35468c29f724ab859982637db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\c91ecdb1083d4d0baaced945561a70887972beac\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277a93f6acf86cdfc4b22370d35898315e6a0f88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\1554724f35fe53970b7f3a28d741150a3cb1b645\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da5eed0a908d000e784c0e4080f24f73eb235b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\4271d1dd1c4d833fcb9e34bd61b9835c763bb161\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd96fa4cb6f38b2b75337a309abb84b4df59128f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_74c1c1ed3fd979c4faa7a32665028fe7ae2b7e41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_1fb8c4ce6c46efd39f8068b192ffa6ebb2652799\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\89055053b8ecef2f8dd7a7d4099f5718b5e4639f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6d7215ff52bb2daaa9904e644dd47d5dc6c7f0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\4cb0348ff9b2273dd4d7f7e148b46172942abbc1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd6fe854e517bd5e79a7968e9bb858a32a93c919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\02cedae1f4aafd075dd9a93ce1dfb9c6705f9475\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b75d926bb0c040688f5775769f0ce6019941f69c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\5b487af8629aadd0a0c7597991bf66774039d362\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80f8044940f101ca7a1c7338c93ed06921a021e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\a968c1794522ab58c02228a3ffb00024ef21dea5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42b9b806674ad9042dca56648d447c87b544ec9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff108005053fa8e52751d7c9ea1525cdd3e055dd">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e13e33fe486e3c7e195bb046b103f9c5052fafc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\akhil\.android\build-cache\436b4a9753401b4d36a19e905803a879568ddaa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\akhil\Documents\GitHub\ASE-Project\Increment - 2\Source\ufo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f02972f85bdfb755a3365820297cf7b962e4bd76\classes.dex" />
+    </item>
+
+</items>
